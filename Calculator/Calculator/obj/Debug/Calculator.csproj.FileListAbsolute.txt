@@ -1,0 +1,10 @@
+C:\Users\Irinka\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Irinka\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Irinka\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Irinka\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Irinka\source\repos\Calculator\Calculator\obj\Debug\Calculator.CalculatorForm.resources
+C:\Users\Irinka\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Irinka\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Irinka\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Irinka\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Irinka\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
